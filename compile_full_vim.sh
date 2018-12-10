@@ -31,8 +31,8 @@ main(){
 		mercurial
 
 	cd ~
-	hg clone https://code.google.com/p/vim/
-	cd vim
+	git clone https://github.com/vim/vim.git
+    cd vim
 	./configure --with-features=huge \
 		--enable-multibyte \
 		--enable-rubyinterp \
