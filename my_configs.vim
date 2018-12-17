@@ -2,7 +2,7 @@ set foldmethod=indent
 set foldlevel=1
 set foldclose=all
 set number
-
+"
 " use space to fold and unfold
 nnoremap <space> za
 
